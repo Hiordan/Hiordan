@@ -1,9 +1,7 @@
 ## Hello! Eu sou Hiordan Freire
 
-- 👋 Hi, I’m @Hiordan Freire
-- 👀 I’m interested in Programming, Penetration Test ...
-- 🌱 I’m currently learning HTML, CSS e JavaScript...
-- 📫 How to reach me Instagram: @hiordan_freire, Twitter: @Hiordan_F...
++ 🌱 Estudando HTML e CSS
++ 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/hiordanfreire">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hiordanfreire&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,7 +16,7 @@
   ##
   
   <div> 
-  <a href="https://instagram.com/hiordan_freire" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/hiordanfreire" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hiordanthales@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hiordanfreire" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
