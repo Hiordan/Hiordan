@@ -1,6 +1,6 @@
 ## Hello! Eu sou Hiordan Freire
 
-+ 🌱 Estudando HTML e CSS
++ 🌱 Estudando JavaScript
 + 😄 Pronouns: Hi/Him
 <div align="center">
   <a href="https://github.com/hiordanfreire">
