@@ -1,7 +1,7 @@
 ## Hello! Eu sou Hiordan Freire
 
 + 🌱 Estudando HTML e CSS
-+ 😄 Pronouns: ele/dele
++ 😄 Pronouns: Hi/Him
 <div align="center">
   <a href="https://github.com/hiordanfreire">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=hiordanfreire&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
